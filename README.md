@@ -5,7 +5,7 @@ This project is a comprehensive image processing toolkit built using Python, Ope
 
 ---
 
-# website Link: 
+# Website Link: 
 
 https://digital-image-processing-toolbox-mohamed-ib.streamlit.app/
 
