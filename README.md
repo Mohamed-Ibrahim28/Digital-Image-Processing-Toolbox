@@ -81,11 +81,6 @@ cv2.waitKey(0)
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 ## ✨ Author
 
